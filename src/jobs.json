@@ -111,6 +111,20 @@
         "contactEmail": "contact@loremipsum.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "13c7",
+      "title": "Vue JS junior developer",
+      "type": "Part-Time",
+      "location": "IT Park",
+      "description": "we need vibrant vue js junior dev to our company",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Iman Invest",
+        "description": "Halal Investment",
+        "contactEmail": "iman@gmail.com",
+        "contactPhone": "991001122"
+      }
     }
   ]
 }
